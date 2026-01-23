@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Run on server:
+# curl -s https://raw.githubusercontent.com/LooseCannon0/public/refs/heads/main/lixunx_setup/setup.sh | bash
+
 # Ensure the script exits immediately if any command fails.
 set -e
 
